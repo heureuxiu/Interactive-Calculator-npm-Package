@@ -1,0 +1,11 @@
+{
+  "name": "interactive-calculator",
+  "version": "1.0.0",
+  "description": "creating a package that will allow users to perform basic arithmatic opertaions through CLI.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "umar ijaz",
+  "license": "ISC"
+}
